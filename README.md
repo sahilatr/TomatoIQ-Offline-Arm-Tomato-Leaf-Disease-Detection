@@ -1,7 +1,8 @@
 # TomatoIQ — Offline Arm Tomato Leaf Disease Detection & Farmer Advisory
 
 **Bharat AI-SoC Student Challenge Submission**  
-**Team:** Sahil Sexsena, Varalakshmi S Kulal, Sowmyarani  
+**GitHub Profile:** [github.com/sahilatr](https://github.com/sahilatr)  
+**Team:** [Sahil Sexsena](https://github.com/sahilatr), Varalakshmi S Kulal, Sowmyarani  
 **Target Hardware:** Raspberry Pi 5 (Linux / aarch64) & Arm Edge Devices (benchmarked on Apple M2 MacBook Air)  
 **Deployment Mode:** 100% Offline (0 KB External Cloud Inference Payload)
 
