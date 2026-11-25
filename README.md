@@ -69,7 +69,7 @@ Evaluated on **1,914 validation images** (from a 9,573-image dataset split 80/20
 * `models/` — Quantized vision model & local inference artifacts
 * `templates/` — Web UI templates (`index.html`, `history.html`, `report.html`)
 * `TomatoIQ_ML_Architecture.png` — End-to-end system & ML pipeline diagram
-* `TomatoIQ_Final_Report.pdf` — Complete technical report (methodology, benchmarks, limitations)
+* `TomatoIQ — Offline Arm Tomato Leaf Disease Detection_Report.pdf` — Complete technical report (methodology, benchmarks, limitations)
 * `README.md` — Project documentation
 
 ---
